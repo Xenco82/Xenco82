@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xenco82)
 
-![xenco82's github stats](https://github-readme-stats.vercel.app/api?username=xenco82ID&show_icons=true)
-[![xenco82's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xenco82 ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/xenco82)
+![xenco82's github stats](https://github-readme-stats.vercel.app/api?username=xenco82&show_icons=true)
+[![xenco82's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xenco82&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/xenco82)
