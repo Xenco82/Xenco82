@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Xenco82/xenco82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdPUQVtXjGipmFIZMD0RlFnCtRvutDOz7iA&usqp=CAU">
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xenco82)
 
